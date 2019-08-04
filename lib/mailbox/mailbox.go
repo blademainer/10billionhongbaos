@@ -1,8 +1,8 @@
 package mailbox
 
 import (
-	. "github.com/10billionhongbaos/lib/message"
-	. "github.com/10billionhongbaos/lib/utils"
+	. "github.com/blademainer/10billionhongbaos/lib/message"
+	. "github.com/blademainer/10billionhongbaos/lib/utils"
 
 	"net"
 )

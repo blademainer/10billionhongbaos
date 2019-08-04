@@ -3,9 +3,9 @@ package main
 import (
 	"encoding/binary"
 	"fmt"
-	. "github.com/10billionhongbaos/lib/monitor"
-	"github.com/10billionhongbaos/lib/parse"
-	. "github.com/10billionhongbaos/lib/utils"
+	. "github.com/blademainer/10billionhongbaos/lib/monitor"
+	"github.com/blademainer/10billionhongbaos/lib/parse"
+	. "github.com/blademainer/10billionhongbaos/lib/utils"
 	"net"
 	"os"
 	"time"

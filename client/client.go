@@ -2,12 +2,12 @@ package main
 
 import (
 	"fmt"
-	"github.com/10billionhongbaos/lib/flags"
-	. "github.com/10billionhongbaos/lib/message"
-	"github.com/10billionhongbaos/lib/monitor"
-	"github.com/10billionhongbaos/lib/parse"
-	"github.com/10billionhongbaos/lib/qps"
-	"github.com/10billionhongbaos/lib/utils"
+	"github.com/blademainer/10billionhongbaos/lib/flags"
+	. "github.com/blademainer/10billionhongbaos/lib/message"
+	"github.com/blademainer/10billionhongbaos/lib/monitor"
+	"github.com/blademainer/10billionhongbaos/lib/parse"
+	"github.com/blademainer/10billionhongbaos/lib/qps"
+	"github.com/blademainer/10billionhongbaos/lib/utils"
 	"net"
 	"net/http"
 	"runtime"

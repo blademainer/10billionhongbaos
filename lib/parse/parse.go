@@ -2,7 +2,7 @@ package parse
 
 import (
 	"encoding/binary"
-	. "github.com/10billionhongbaos/lib/message"
+	. "github.com/blademainer/10billionhongbaos/lib/message"
 	"net"
 )
 
